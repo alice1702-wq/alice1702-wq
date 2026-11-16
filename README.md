@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🔭 **I’m currently working on** **VEKTOR** — a career guidance navigator for school students in the Sverdlovsk region, and **fanfic_studio** — a dual-agent AI system for world-building, creative writing, deep psychological analysis, and targeted text editing.<br>- 👯 **I’m looking to collaborate on** projects in **Affective Computing**, **Multimodal Emotion Recognition** (voice, facial expressions, and body language), and **Multi-Agent LLM Systems**.<br>- 🤝 **I’m looking for help with** **Multimodal Fusion** architectures, best practices for synchronizing audio-visual and behavioral datasets, and building adaptive AI interfaces.<br>- 🌱 **I’m currently learning** **Applied AI** (MSc program), focusing on Speech Emotion Recognition (SER), Facial Expression Analysis, and multimodal deep learning pipelines.<br>- 💬 **Ask me about** computational linguistics, French language & literature, prompt engineering for character psychology, or how to bridge humanities and AI.<br>- ⚡ **Fun fact** By my first degree, I'm a French linguist — so I went from analyzing human syntax and semantics to teaching machines how to read human emotions!
+- 🔭 **I’m currently working on** **VEKTOR** — a career guidance navigator for school students in the Sverdlovsk region, and **fanfic_studio** — a dual-agent AI system for world-building, creative writing, deep psychological analysis, and targeted text editing.
+- 👯 **I’m looking to collaborate on** projects in **Affective Computing**, **Multimodal Emotion Recognition** (voice, facial expressions, and body language), and **Multi-Agent LLM Systems**.
+- 🤝 **I’m looking for help with** **Multimodal Fusion** architectures, best practices for synchronizing audio-visual and behavioral datasets, and building adaptive AI interfaces.
+- 🌱 **I’m currently learning** **Applied AI** (MSc program), focusing on Speech Emotion Recognition (SER), Facial Expression Analysis, and multimodal deep learning pipelines.
+- 💬 **Ask me about** computational linguistics, French language & literature, prompt engineering for character psychology, or how to bridge humanities and AI.
+- ⚡ **Fun fact** By my first degree, I'm a French linguist — so I went from analyzing human syntax and semantics to teaching machines how to read human emotions!
 
 
 ## 🌐 Socials:
